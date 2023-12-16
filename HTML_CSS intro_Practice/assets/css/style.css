@@ -1,0 +1,46 @@
+/* .Welcome{
+    color: blueviolet;
+    background-color: black;
+    display: inline;
+    border-radius: 20px;
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 20px;
+} */
+
+
+
+
+header .navbar{
+
+
+    background-color: aqua;
+    height: 50px;
+
+}
+
+header .navbar ul{
+
+    list-style: none;
+    display: flex;
+
+
+}
+
+header .navbar ul li{
+
+display: inline-block;
+margin-left: 30px;
+font-size: ;
+    
+}
+
+
+
+header .navbar ul li a{
+
+
+    text-decoration: none;
+
+    
+}
